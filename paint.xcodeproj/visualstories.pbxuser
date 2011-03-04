@@ -1,0 +1,214 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeTarget = D2AAC07D0554694100DB518D /* paint */;
+		codeSenseManager = 738DCBAD1320C5C200A43840 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					834,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 320924521;
+			PBXWorkspaceStateSaveDate = 320924521;
+		};
+		perUserProjectItems = {
+			738DCBAE1320C64A00A43840 = 738DCBAE1320C64A00A43840 /* PBXTextBookmark */;
+			738DCBAF1320C64A00A43840 = 738DCBAF1320C64A00A43840 /* PBXTextBookmark */;
+			738DCBB01320C64A00A43840 = 738DCBB01320C64A00A43840 /* PBXTextBookmark */;
+			738DCBB11320C64A00A43840 = 738DCBB11320C64A00A43840 /* PBXTextBookmark */;
+			738DCBB21320C64A00A43840 = 738DCBB21320C64A00A43840 /* PBXTextBookmark */;
+			738DCBB31320C64A00A43840 = 738DCBB31320C64A00A43840 /* PBXTextBookmark */;
+			738DCBB41320C64A00A43840 = 738DCBB41320C64A00A43840 /* PBXTextBookmark */;
+			738DCBB51320C64A00A43840 = 738DCBB51320C64A00A43840 /* PBXTextBookmark */;
+			738DCBB61320C64A00A43840 = 738DCBB61320C64A00A43840 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 738DCBAC1320C5C200A43840 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	24416B8111C4CA220047AFDD /* Build & Test */ = {
+		activeExec = 0;
+	};
+	24A833D21200FF9D0026778E /* TiPaintView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 400}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 339}";
+		};
+	};
+	24A833D31200FF9D0026778E /* TiPaintView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1560}}";
+			sepNavSelRange = "{2751, 0}";
+			sepNavVisRange = "{0, 610}";
+		};
+	};
+	24A833D61200FFB10026778E /* TiPaintViewProxy.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 400}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 258}";
+		};
+	};
+	24A833D71200FFB10026778E /* TiPaintViewProxy.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 400}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 383}";
+		};
+	};
+	24DD6CF71134B3F500162E58 /* TiPaintModule.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 400}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 239}";
+		};
+	};
+	24DD6CF81134B3F500162E58 /* TiPaintModule.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 1391}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1668, 539}";
+		};
+	};
+	24DE9E0F11C5FE74003F90F6 /* TiPaintModuleAssets.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 400}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 155}";
+		};
+	};
+	24DE9E1011C5FE74003F90F6 /* TiPaintModuleAssets.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 400}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 254}";
+		};
+	};
+	738DCBAC1320C5C200A43840 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	738DCBAD1320C5C200A43840 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	738DCBAE1320C64A00A43840 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF71134B3F500162E58 /* TiPaintModule.h */;
+		name = "TiPaintModule.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 239;
+		vrLoc = 0;
+	};
+	738DCBAF1320C64A00A43840 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DE9E0F11C5FE74003F90F6 /* TiPaintModuleAssets.h */;
+		name = "TiPaintModuleAssets.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 155;
+		vrLoc = 0;
+	};
+	738DCBB01320C64A00A43840 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DE9E1011C5FE74003F90F6 /* TiPaintModuleAssets.m */;
+		name = "TiPaintModuleAssets.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 254;
+		vrLoc = 0;
+	};
+	738DCBB11320C64A00A43840 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24A833D61200FFB10026778E /* TiPaintViewProxy.h */;
+		name = "TiPaintViewProxy.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 258;
+		vrLoc = 0;
+	};
+	738DCBB21320C64A00A43840 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24A833D71200FFB10026778E /* TiPaintViewProxy.m */;
+		name = "TiPaintViewProxy.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 383;
+		vrLoc = 0;
+	};
+	738DCBB31320C64A00A43840 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24A833D21200FF9D0026778E /* TiPaintView.h */;
+		name = "TiPaintView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	738DCBB41320C64A00A43840 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* TiPaintModule.m */;
+		name = "TiPaintModule.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 539;
+		vrLoc = 1668;
+	};
+	738DCBB51320C64A00A43840 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24A833D31200FF9D0026778E /* TiPaintView.m */;
+		name = "TiPaintView.m: 76";
+		rLen = 0;
+		rLoc = 1999;
+		rType = 0;
+		vrLen = 900;
+		vrLoc = 634;
+	};
+	738DCBB61320C64A00A43840 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24A833D31200FF9D0026778E /* TiPaintView.m */;
+		name = "TiPaintView.m: 117";
+		rLen = 0;
+		rLoc = 2751;
+		rType = 0;
+		vrLen = 429;
+		vrLoc = 2324;
+	};
+	D2AAC07D0554694100DB518D /* paint */ = {
+		activeExec = 0;
+	};
+}

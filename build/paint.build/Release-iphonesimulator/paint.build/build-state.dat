@@ -1,0 +1,503 @@
+Tpaint
+v7
+r0
+t320930100.999950
+cCheck dependencies
+cProcessPCH /var/folders/CX/CX6pmYLRFaaIrab4aB-VdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TiPaint_Prefix-avdyxjfahjfrkegtmmvnhqrjfcal/TiPaint_Prefix.pch.gch TiPaint_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/paint.build/Release-iphonesimulator/paint.build/Objects-normal/i386/TiPaintModule.o /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintModule.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/paint.build/Release-iphonesimulator/paint.build/Objects-normal/i386/TiPaintModuleAssets.o /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintModuleAssets.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/paint.build/Release-iphonesimulator/paint.build/Objects-normal/i386/TiPaintView.o /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/paint.build/Release-iphonesimulator/paint.build/Objects-normal/i386/TiPaintViewProxy.o /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintViewProxy.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLibtool /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/Release-iphonesimulator/libTiPaint.a normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004CC1219F0000000000000AB3
+t1287725471
+s2739
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004CC121DB00000000000004FE
+t1287725531
+s1278
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/AvailabilityMacros.h
+c000000004CB3FA08000000000000673C
+t1286863368
+s26428
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/pthread.h
+c000000004CB3E48600000000000038F0
+t1286857862
+s14576
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdbool.h
+c000000004A1198340000000000000644
+t1242667060
+s1604
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004A1198340000000000003197
+t1242667060
+s12695
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/Bridge.h
+c000000004D592BEA0000000000000268
+t1297689578
+s616
+i"TiProxy.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/KrollCallback.h
+c000000004CC9FE540000000000000466
+t1288306260
+s1126
+i<Foundation/Foundation.h>
+i"TiCore.h"
+i"KrollContext.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/KrollContext.h
+c000000004CAC46680000000000000D82
+t1286358632
+s3458
+i<Foundation/Foundation.h>
+i"TiCore.h"
+i"TiBase.h"
+i"TiContextRefPrivate.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/KrollObject.h
+c000000004CAC46680000000000000714
+t1286358632
+s1812
+i<Foundation/Foundation.h>
+i"TiCore.h"
+i"TiBase.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/LayoutConstraint.h
+c000000004D592BEA00000000000009F1
+t1297689578
+s2545
+i<UIKit/UIKit.h>
+i"TiDimension.h"
+i"TiUtils.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/ListenerEntry.h
+c000000004CAC46680000000000000269
+t1286358632
+s617
+i"TiModule.h"
+i"TiEvaluator.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiAnimation.h
+c000000004CAC46680000000000000D5B
+t1286358632
+s3419
+i"TiProxy.h"
+i"TiPoint.h"
+i"TiColor.h"
+i"ListenerEntry.h"
+i"LayoutConstraint.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiBase.h
+c000000004D592BEA0000000000002ACB
+t1297689578
+s10955
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"defines.h"
+i"TiThreading.h"
+i"TiPublicAPI.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiColor.h
+c000000004CAC466800000000000002E6
+t1286358632
+s742
+i<UIKit/UIKit.h>
+i"TiProxy.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiCore/Ti.h
+c000000004CAC4668000000000000071C
+t1286358632
+s1820
+i<TiCore/TiBase.h>
+i<TiCore/TiContextRef.h>
+i<TiCore/TiStringRef.h>
+i<TiCore/TiObjectRef.h>
+i<TiCore/TiValueRef.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiCore/TiBase.h
+c000000004CAC46680000000000001A03
+t1286358632
+s6659
+i<stdbool.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiCore/TiContextRef.h
+c000000004CAC466800000000000014D8
+t1286358632
+s5336
+i<TiCore/TiObjectRef.h>
+i<TiCore/TiValueRef.h>
+i<TiCore/WebKitAvailability.h>
+i<stdbool.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiCore/TiContextRefPrivate.h
+c000000004CAC46680000000000000860
+t1286358632
+s2144
+i<TiCore/TiObjectRef.h>
+i<TiCore/TiValueRef.h>
+i<TiCore/WebKitAvailability.h>
+i<stdbool.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiCore/TiCore.h
+c000000004CAC4668000000000000069B
+t1286358632
+s1691
+i<TiCore/Ti.h>
+i<TiCore/TiStringRefCF.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiCore/TiObjectRef.h
+c000000004CAC4668000000000000945D
+t1286358632
+s37981
+i<TiCore/TiBase.h>
+i<TiCore/TiValueRef.h>
+i<TiCore/WebKitAvailability.h>
+i<stdbool.h>
+i<stddef.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiCore/TiStringRef.h
+c000000004CAC4668000000000000168A
+t1286358632
+s5770
+i<TiCore/TiValueRef.h>
+i<stdbool.h>
+i<stddef.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiCore/TiStringRefCF.h
+c000000004CAC46680000000000000A3B
+t1286358632
+s2619
+i"TiBase.h"
+i<CoreFoundation/CoreFoundation.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiCore/TiValueRef.h
+c000000004CAC46680000000000002AE2
+t1286358632
+s10978
+i<TiCore/TiBase.h>
+i<stdbool.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiCore/WebKitAvailability.h
+c000000004CAC46680000000000006BD6
+t1286358632
+s27606
+i<AvailabilityMacros.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiDimension.h
+c000000004D592BEA000000000000119C
+t1297689578
+s4508
+i"TiBase.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiEvaluator.h
+c000000004D592BEA0000000000000346
+t1297689578
+s838
+i<Foundation/Foundation.h>
+i"KrollContext.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiFile.h
+c000000004D592BEA0000000000000368
+t1297689578
+s872
+i"TiProxy.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiGradient.h
+c000000004CAC466800000000000005FC
+t1286358632
+s1532
+i"TiProxy.h"
+i"TiDimension.h"
+i"TiPoint.h"
+i<CoreGraphics/CoreGraphics.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiHost.h
+c000000004CAC536400000000000004A6
+t1286361956
+s1190
+i"TiProxy.h"
+i"Bridge.h"
+i"TiEvaluator.h"
+i"TiStylesheet.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiModule.h
+c000000004D592BEA0000000000000409
+t1297689578
+s1033
+i"TiUtils.h"
+i"TiEvaluator.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiPoint.h
+c000000004CAC466800000000000002D3
+t1286358632
+s723
+i"TiProxy.h"
+i"TiDimension.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiProxy.h
+c000000004CAC46680000000000001233
+t1286358632
+s4659
+i"TiBase.h"
+i"TiEvaluator.h"
+i"KrollCallback.h"
+i"KrollObject.h"
+i<pthread.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiPublicAPI.h
+c000000004CC837240000000000000A62
+t1288189732
+s2658
+i<Foundation/Foundation.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiStylesheet.h
+c000000004D592BEA000000000000027F
+t1297689578
+s639
+i"TiBase.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiThreading.h
+c000000004CC8372400000000000009CE
+t1288189732
+s2510
+i<Foundation/Foundation.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiUIView.h
+c000000004D592BEA0000000000000F0E
+t1297689578
+s3854
+i"TiProxy.h"
+i"TiAnimation.h"
+i"TiGradient.h"
+i"LayoutConstraint.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiUtils.h
+c000000004D592BEA0000000000001523
+t1297689578
+s5411
+i"TiColor.h"
+i"TiDimension.h"
+i"WebFont.h"
+i"TiFile.h"
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiViewProxy.h
+c000000004D592BEA0000000000001DD8
+t1297689578
+s7640
+i"TiProxy.h"
+i"TiUIView.h"
+i<pthread.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/WebFont.h
+c000000004CAC466800000000000003C2
+t1286358632
+s962
+i<UIKit/UIKit.h>
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/defines.h
+c000000004D592BEA000000000000087F
+t1297689578
+s2175
+
+N/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintModule.h
+c000000004D6E65E600000000000000EF
+t1299080678
+s239
+i"TiModule.h"
+
+N/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintModule.m
+c000000004D6E65E6000000000000089F
+t1299080678
+s2207
+i"TiPaintModule.h"
+i"TiBase.h"
+i"TiHost.h"
+i"TiUtils.h"
+
+N/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintModuleAssets.h
+c000000004D6E65E6000000000000009B
+t1299080678
+s155
+
+N/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintModuleAssets.m
+c000000004D6E65E600000000000000FE
+t1299080678
+s254
+i"TiPaintModuleAssets.h"
+
+N/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintView.h
+c000000004D70B40C000000000000016B
+t1299231756
+s363
+i"TiUIView.h"
+
+N/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintView.m
+c000000004D70C4430000000000000B73
+t1299235907
+s2931
+i"TiPaintView.h"
+i"TiUtils.h"
+
+N/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintViewProxy.h
+c000000004D6E65E60000000000000102
+t1299080678
+s258
+i"TiViewProxy.h"
+
+N/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintViewProxy.m
+c000000004D6E65E6000000000000017F
+t1299080678
+s383
+i"TiPaintViewProxy.h"
+i"TiUtils.h"
+
+N/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/TiPaint_Prefix.pch
+c000000004D6E65E6000000000000003E
+t1299080678
+s62
+i<Foundation/Foundation.h>
+
+N/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/Release-iphonesimulator/libTiPaint.a
+t1299237300
+s122696
+
+N/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/Objects-normal/i386/TiPaint.LinkFileList
+c000000004D70C9B3000000000000029B
+t1299237299
+s667
+
+N/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/Objects-normal/i386/TiPaintModule.o
+t1299237300
+s16288
+
+N/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/Objects-normal/i386/TiPaintModuleAssets.o
+t1299237300
+s6148
+
+N/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/Objects-normal/i386/TiPaintView.o
+t1299237300
+s56600
+
+N/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/Objects-normal/i386/TiPaintViewProxy.o
+t1299237300
+s42520
+
+N/var/folders/CX/CX6pmYLRFaaIrab4aB-VdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TiPaint_Prefix-avdyxjfahjfrkegtmmvnhqrjfcal/TiPaint_Prefix.pch.gch
+t1299237300
+s10219120
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320930098#320930099#0(0"0(0#1#0"7593683835744825344#0"0#
+
+CCompileC build/paint.build/Release-iphonesimulator/paint.build/Objects-normal/i386/TiPaintModule.o /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintModule.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320930100.586314
+e320930100.903489
+r1
+xCompileC
+xbuild/paint.build/Release-iphonesimulator/paint.build/Objects-normal/i386/TiPaintModule.o
+x/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintModule.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintModule.m320930100#320930100#0(0"0(0#0#98"/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintModule.m4389128624#2549"    cd /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/TiPaint-generated-files.hmap -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/TiPaint-own-target-headers.hmap -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/TiPaint-all-target-headers.hmap -iquote /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/TiPaint-project-headers.hmap -F/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/Release-iphonesimulator -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/Release-iphonesimulator/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiCore" -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/DerivedSources/i386 -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/DerivedSources -include /var/folders/CX/CX6pmYLRFaaIrab4aB-VdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TiPaint_Prefix-avdyxjfahjfrkegtmmvnhqrjfcal/TiPaint_Prefix.pch -c /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintModule.m -o /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/Objects-normal/i386/TiPaintModule.o0#
+
+CCompileC build/paint.build/Release-iphonesimulator/paint.build/Objects-normal/i386/TiPaintModuleAssets.o /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintModuleAssets.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320930100.587185
+e320930100.718021
+r1
+xCompileC
+xbuild/paint.build/Release-iphonesimulator/paint.build/Objects-normal/i386/TiPaintModuleAssets.o
+x/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintModuleAssets.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintModuleAssets.m320930100#320930100#0(0"0(0#0#104"/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintModuleAssets.m4389074400#2561"    cd /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/TiPaint-generated-files.hmap -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/TiPaint-own-target-headers.hmap -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/TiPaint-all-target-headers.hmap -iquote /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/TiPaint-project-headers.hmap -F/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/Release-iphonesimulator -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/Release-iphonesimulator/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiCore" -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/DerivedSources/i386 -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/DerivedSources -include /var/folders/CX/CX6pmYLRFaaIrab4aB-VdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TiPaint_Prefix-avdyxjfahjfrkegtmmvnhqrjfcal/TiPaint_Prefix.pch -c /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintModuleAssets.m -o /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/Objects-normal/i386/TiPaintModuleAssets.o0#
+
+CCompileC build/paint.build/Release-iphonesimulator/paint.build/Objects-normal/i386/TiPaintView.o /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320930100.587942
+e320930100.977849
+r1
+xCompileC
+xbuild/paint.build/Release-iphonesimulator/paint.build/Objects-normal/i386/TiPaintView.o
+x/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintView.m320930100#320930100#0(0"0(0#0#96"/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintView.m4659562128#2545"    cd /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/TiPaint-generated-files.hmap -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/TiPaint-own-target-headers.hmap -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/TiPaint-all-target-headers.hmap -iquote /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/TiPaint-project-headers.hmap -F/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/Release-iphonesimulator -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/Release-iphonesimulator/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiCore" -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/DerivedSources/i386 -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/DerivedSources -include /var/folders/CX/CX6pmYLRFaaIrab4aB-VdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TiPaint_Prefix-avdyxjfahjfrkegtmmvnhqrjfcal/TiPaint_Prefix.pch -c /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintView.m -o /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/Objects-normal/i386/TiPaintView.o0#
+
+CCompileC build/paint.build/Release-iphonesimulator/paint.build/Objects-normal/i386/TiPaintViewProxy.o /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintViewProxy.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320930100.588901
+e320930100.900498
+r1
+xCompileC
+xbuild/paint.build/Release-iphonesimulator/paint.build/Objects-normal/i386/TiPaintViewProxy.o
+x/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintViewProxy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintViewProxy.m320930100#320930100#0(0"0(0#0#101"/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintViewProxy.m4351639744#2555"    cd /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/TiPaint-generated-files.hmap -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/TiPaint-own-target-headers.hmap -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/TiPaint-all-target-headers.hmap -iquote /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/TiPaint-project-headers.hmap -F/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/Release-iphonesimulator -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/Release-iphonesimulator/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiCore" -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/DerivedSources/i386 -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/DerivedSources -include /var/folders/CX/CX6pmYLRFaaIrab4aB-VdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TiPaint_Prefix-avdyxjfahjfrkegtmmvnhqrjfcal/TiPaint_Prefix.pch -c /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/Classes/TiPaintViewProxy.m -o /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/Objects-normal/i386/TiPaintViewProxy.o0#
+
+CLibtool /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/Release-iphonesimulator/libTiPaint.a normal i386
+s320930100.977942
+e320930100.999733
+r1
+xLibtool
+x/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/Release-iphonesimulator/libTiPaint.a
+xnormal
+xi386
+lSLF07#2@62"Libtool build/Release-iphonesimulator/libTiPaint.a normal i386320930100#320930100#0(0"0(0#0#0"4389067872#962"    cd /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/Release-iphonesimulator -filelist /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/Objects-normal/i386/TiPaint.LinkFileList -framework Foundation -o /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/Release-iphonesimulator/libTiPaint.a0#
+
+CProcessPCH /var/folders/CX/CX6pmYLRFaaIrab4aB-VdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TiPaint_Prefix-avdyxjfahjfrkegtmmvnhqrjfcal/TiPaint_Prefix.pch.gch TiPaint_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320930099.500485
+e320930100.586052
+r1
+xProcessPCH
+x/var/folders/CX/CX6pmYLRFaaIrab4aB-VdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TiPaint_Prefix-avdyxjfahjfrkegtmmvnhqrjfcal/TiPaint_Prefix.pch.gch
+xTiPaint_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile TiPaint_Prefix.pch320930099#320930100#0(0"0(0#0#93"/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/TiPaint_Prefix.pch7379825706939348992#2381"    cd /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/TiPaint-generated-files.hmap -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/TiPaint-own-target-headers.hmap -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/TiPaint-all-target-headers.hmap -iquote /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/TiPaint-project-headers.hmap -F/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/Release-iphonesimulator -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/Release-iphonesimulator/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.6.0/iphone/include/TiCore" -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/DerivedSources/i386 -I/Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/build/paint.build/Release-iphonesimulator/paint.build/DerivedSources -c /Users/visualstories/Downloads/appcelerator-titanium_modules-3dd2bd6/paint/TiPaint_Prefix.pch -o /var/folders/CX/CX6pmYLRFaaIrab4aB-VdE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TiPaint_Prefix-avdyxjfahjfrkegtmmvnhqrjfcal/TiPaint_Prefix.pch.gch0#
+
